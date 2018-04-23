@@ -1,4 +1,3 @@
-![Image of Sandy](https://witziger.github.com/images/ProfilePic.jpg)
 
 
 
