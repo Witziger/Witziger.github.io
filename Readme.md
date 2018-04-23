@@ -1,3 +1,7 @@
+![Image of Sandy](https://witziger.github.com/Profile/Profile Pic.jpg
+
+
+
 ## Sandy Yu-Hsuan Hsieh 謝語瑄
 
 Jeff Bezos, chief executive officer of Amazon, once stated, “In business, what is dangerous is not to evolve.”
