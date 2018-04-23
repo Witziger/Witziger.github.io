@@ -1,4 +1,4 @@
-![Image of Sandy](https://witziger.github.com/Profile/Profile Pic.jpg
+![Image of Sandy](https://witziger.github.com/Profile/ProfilePic.jpg
 
 
 
