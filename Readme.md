@@ -1,5 +1,4 @@
-[Profile Pic](https://i.imgur.com/s5bkmoT.jpg)
-
+![Imgur](https://i.imgur.com/s5bkmoTm.jpg?3)
 
 ## Sandy Yu-Hsuan Hsieh 謝語瑄
 
