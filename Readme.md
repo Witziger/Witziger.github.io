@@ -23,7 +23,7 @@ I am particularly interested in the applications of Computer Vision in business 
 ## EDUCATION
 
 ### Southern Methodist University (Dallas, Texas)
-Master of Sciences in Business Analytics, May, 2019
+Master of Sciences in Business Analytics, MSBA, May, 2019
 
 ### National Chiayi University (Chiayi, Taiwan)
 Bachelors of Arts in Foreign Languages, GPA:3.79, June, 2014
@@ -33,32 +33,20 @@ Bachelors of Arts in Foreign Languages, GPA:3.79, June, 2014
 ### FLYTECH Technology Co., Ltd. (Taipei, Taiwan)
 __Sales Specialist — Management Associate Program, July 2015 – December 2016__                                                   
 
-* Assisted in negotiations and closed deals on key projects for Panel PC, Payment Terminal Solutions and Kiosk systems.
-* Helped set up a Hong Kong subsidiary and accelerated product design, marketing, and manufacturing to meet product launch schedule, which resulted in 3 months saved.
-* Collaborated internally with corporate marketing to coordinate 5 international trade fair demonstrations such as Cartes, EuroCIS, and RetailNow.
-* Initiated key projects of Kiosk systems, Payment Terminal Solutions, and iOS related POS products:
+* Analyzed historical sales data to identify profitable and unprofitable customers to support C-suite level decision making; improved production line efficiencies through customer divestment, which reduced the production lead time by 2 weeks.   
+* Accelerated product design, marketing, and manufacturing of iOS payment POS to meet product launch schedule, which reduced the product production cycle by 3 months.
+* Planned the kiosk project for the subsidiary of Malaysia's leading retail group to install kiosk machines in the country's largest convenience store chain; presented it to the COO and reached an agreement to develop the pre-production version of the kiosk. 
+* Led a cross-functional team of 10 people to manage hardware and software integration problems of a tax refund project for the Japan 2020 Tokyo Olympics, which led to an increase in customers because of improved customer service.
+* Initiated a payment POS project for a Taiwanese leading department store group (group revenue: 2.6 billion USD) to integrate the retail and banking system; conducted weekly discussions with the banking group and their payment gateway company to confirm product specifications; controlled internal hardware design schedule and provide the prototype in 4 weeks. 
+* Coordinated 5 international trade fair demonstrations including Cartes, EuroCIS, and RetailNow.
 
-**`Kiosk Project for a Malaysia Convenience Chain Store:`**
-
-  -Planned the project and presented it to the COO of a large convenience store chain in Malaysia.
-  -Reached an agreement which contributed to a 2.5% growth in yearly sales revenue.
-  
-**`Tax Refunder Project for the Japan 2020 Tokyo Olympics:`**
-
-  -Led a team assisting with hardware and software integration problems and gained a customer from a major competitor’s service.
-  
-**`Payment POS Project for Taiwanese Retail Group (group revenue: 2.6 billion USD):`**
-
-  -Conducted weekly discussions with a banking group, and payment gateway company to confirm product specifications.
-  -Controlled internal hardware design schedule; Provided the prototype in 4 weeks for the customer demonstration.
 
 
 ### DEPO AUTO PARTS Co., Ltd. (Taipei, Taiwan)
 **Sales Assistant — EMEA Sales Division, November 2014 – February 2015**
 
-* Organized sales reviews, customer orders, custom documents and auto industry news.
-* Supported Sales representatives in managing orders, controlling manufacturing schedules and reporting
-quality issues.
+* Organized sales reviews, customer orders, custom documents and auto industry news. 
+* Managed orders, controlled manufacturing schedules and reported quality issues to support sales representatives. 
 
 ### ASUSTeK Computer Inc. (Taipei & Chiayi, Taiwan)
 **Marketing and Sales Intern, July 2012 – June 2013**
@@ -76,6 +64,11 @@ __Guest Speaker, May 2017__
 * Delivered a public speech introducing how I started my career in the Technology field with a humanity relat-
 ed background through self-taught programs
 
+### Design for Taiwan (Taipei, Taiwan)
+__Project Lead, September 2016 - July 2017 __ 
+
+* Participated in 3-day design thinking workshop led by fellow of IDEO consulting firm. 
+* Led a cross-functional team of 5 people to design a new way to expand echo chamber for college students in Taiwan. 
 
 ### NATIONAL CHIAYI UNIVERSITY— STUDENT LEGISLATIVE COUNCIL (Chiayi, Taiwan)
 __Representative of Dept. Foreign Languages, 2012 – 2013__
