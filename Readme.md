@@ -22,11 +22,12 @@ I am particularly interested in the applications of Computer Vision in business 
 
 ## EDUCATION
 
+### Southern Methodist University (Dallas, Texas)
+Master of Sciences in Business Analytics, May, 2019
+
 ### National Chiayi University (Chiayi, Taiwan)
 Bachelors of Arts in Foreign Languages, GPA:3.79, June, 2014
 
-### University of California, Berkeley (CA, USA)
-Summer Session: Social Psychology, Advanced Digital Photography, 2014
 
 ## WORK EXPERIENCE
 ### FLYTECH Technology Co., Ltd. (Taipei, Taiwan)
