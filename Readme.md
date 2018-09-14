@@ -65,7 +65,7 @@ __Guest Speaker, May 2017__
 ed background through self-taught programs
 
 ### Design for Taiwan (Taipei, Taiwan)
-__Project Lead, September 2016 - July 2017 __ 
+__Project Lead, September 2016 - July 2017__ 
 
 * Participated in 3-day design thinking workshop led by fellow of IDEO consulting firm. 
 * Led a cross-functional team of 5 people to design a new way to expand echo chamber for college students in Taiwan. 
