@@ -63,8 +63,10 @@ __Business Development Manager — Management Associate Program, July 2015 – D
 ### DEPO AUTO PARTS Co., Ltd. (Taipei, Taiwan)
 **Sales Assistant — EMEA Sales Division, November 2014 – February 2015**
 
-* Organized sales reviews, customer orders, custom documents and auto industry news. 
-* Managed orders, controlled manufacturing schedules and reported quality issues to support sales representatives. 
+* Utilized Excel and Oracle ERP to manage orders for 30,000+ products at world’s largest aftermarket automotive lighting manufacturer (Market Cap 530M). 
+* Analyzed accounts receivable of all Russian accounts during the Russian Financial Crisis of 2014; estimated the percentage of doubtful debts to support assistant vice president’s decision making. 
+* Analyzed the price difference of products selling to the same territory; developed the geographical pricing strategy to support team’s price negotiation with clients. Effort led to maintain the margin at 30%. 
+ 
 
 ### ASUSTeK Computer Inc. (Taipei & Chiayi, Taiwan)
 **Marketing and Sales Intern, July 2012 – June 2013**
