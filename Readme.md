@@ -26,11 +26,11 @@ I am particularly interested in the applications of Market Basket Analysis in re
 ## EDUCATION
 
 ### Southern Methodist University (Dallas, Texas)
-Master of Sciences in Business Analytics, MSBA, May, 2019
+_Master of Sciences in Business Analytics, MSBA, May, 2019_
 * Activities: Consulting & Corporate Strategy Club, Real Estate Club 
 
 ### National Chiayi University (Chiayi, Taiwan)
-Bachelors of Arts in Foreign Languages, GPA:3.79, June, 2014
+_Bachelors of Arts in Foreign Languages, GPA:3.79, June, 2014_
 * Leadership: Student Legislative Council — President 
 
 ### TECHNICAL SKILLS (*In Progress)  
