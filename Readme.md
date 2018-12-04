@@ -10,6 +10,9 @@ As a business professional in the technology industry, I was deeply affected by 
 
 ## RECENT ACTIVITY
 
+
+### TEXATA 2018 (Austin, Texas)
+
 ### NVIDIA GPU Technology Conference 2018, (Taipei, Taiwan)
 AI & Deep Learning Conference & Hands-on Workshop
 
@@ -17,29 +20,44 @@ _Workshop Topic: Apply Convolutional Neural Networks in MRI Images_
 
 ## AREA OF INTEREST
 
-I am particularly interested in the applications of Computer Vision in business and healthcare.
+I am particularly interested in the applications of Market Basket Analysis in retailing and Revenue Mangement in hotel, airline, and sports industries.
 
 
 ## EDUCATION
 
 ### Southern Methodist University (Dallas, Texas)
 Master of Sciences in Business Analytics, MSBA, May, 2019
+Activities: Consulting & Corporate Strategy Club, Real Estate Club 
 
 ### National Chiayi University (Chiayi, Taiwan)
 Bachelors of Arts in Foreign Languages, GPA:3.79, June, 2014
+Leadership: Student Legislative Council — President 
 
+### TECHNICAL SKILLS (*In Progress)  
+`Python` ; `R` ; `HTML5` ; `Tableau` ; `Alteryx`; `MySQL`; `Knime` ; `Shiny` ; `Machine Learning*`; `Predictive Modelling*` ; `Revenue Management`
+
+
+## Academic Projects
+### Dallas Stars, National Hockey League (Sports Industry Data Visualization Project) 
+* Analyzed customers’ data to identify the distinct pattern and address business issues to support client’s business intelligence and analytics department. 
+* Built dashboards utilizing Tableau to manage multiple worksheets and correlations plots in one screen; presented the branding insights and recommended a new marketing strategy to the client. 
+
+### MOREFREE TRIP, Online Travel Agency Startup (Database Design Project)
+* Designed a database utilizing MySQL for financial, HR, and sales departments to do the data-driven transformation.
+* Built a shiny application to facilitate the startup's day-to-day business operations and enable the analytics solutions.
 
 ## WORK EXPERIENCE
 ### FLYTECH Technology Co., Ltd. (Taipei, Taiwan)
-__Sales Specialist — Management Associate Program, July 2015 – December 2016__                                                   
+__Business Development Manager — Management Associate Program, July 2015 – December 2016__                                                   
 
-* Analyzed historical sales data to identify profitable and unprofitable customers to support C-suite level decision making; improved production line efficiencies through customer divestment, which reduced the production lead time by 2 weeks.   
-* Accelerated product design, marketing, and manufacturing of iOS payment POS to meet product launch schedule, which reduced the product production cycle by 3 months.
+
+* Worked in the product, sales and marketing (PSM) rotation program at world’s third largest point-of-sale manufacturer 
+* Analyzed historical sales data to identify profitable and unprofitable customers to support C-suite level decision making; improved production line efficiencies through customer divestment, which reduced the production lead time by 2 weeks. 
+* Led a cross-functional team to design iOS payment POS for a newly founded Hong Kong subsidiary. Managed the product launch schedule by conducting weekly status meeting with product design, marketing, and manufacturing functions, which reduced the product production cycle by 3 months. 
 * Planned the kiosk project for the subsidiary of Malaysia's leading retail group to install kiosk machines in the country's largest convenience store chain; presented it to the COO and reached an agreement to develop the pre-production version of the kiosk. 
-* Led a cross-functional team of 10 people to manage hardware and software integration problems of a tax refund project for the Japan 2020 Tokyo Olympics, which led to an increase in customers because of improved customer service.
+* Led a cross-functional team of 10 people to manage hardware and software integration problems of a tax refund project for the Japan 2020 Tokyo Olympics, which led to an increase in customers because of improved customer service. 
 * Initiated a payment POS project for a Taiwanese leading department store group (group revenue: 2.6 billion USD) to integrate the retail and banking system; conducted weekly discussions with the banking group and their payment gateway company to confirm product specifications; controlled internal hardware design schedule and provide the prototype in 4 weeks. 
-* Coordinated 5 international trade fair demonstrations including Cartes, EuroCIS, and RetailNow.
-
+* Coordinated 5 international trade fair demonstrations including Cartes, EuroCIS, and RetailNow
 
 
 ### DEPO AUTO PARTS Co., Ltd. (Taipei, Taiwan)
@@ -86,8 +104,7 @@ School, which saved the organization 2,000 USD.
 
 ### LANGUAGE: 
 Native in Mandarin; Proficient in English; Conversational Proficiency in German and Cantonese 
-### COMPUTER LANGUAGE: 
-`Python` ; `C/C++` ; `HTML5`
+
 ### ON-SITE & ONLINE COURSE CERTIFICATION: 
 `Duke University - Business Metrics for Data-Driven Companies`; `University of Michigan - Using Databases with Python`, `Using Python to Access Web Data`, `Python Data Structures`, `Programming for Everybody (Getting Started with Python)`; `Introduction to HTML5`; `National Taiwan University - C/C++ (On-site Training Program)`
 
