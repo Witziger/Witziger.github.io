@@ -11,7 +11,7 @@ As a business professional in the technology industry, I was deeply affected by 
 ## RECENT ACTIVITY
 
 
-### TEXATA 2018 (Austin, Texas)
+### TEXATA Data Analytics Summit 2018 (Austin, Texas)
 
 ### NVIDIA GPU Technology Conference 2018, (Taipei, Taiwan)
 AI & Deep Learning Conference & Hands-on Workshop
@@ -27,11 +27,11 @@ I am particularly interested in the applications of Market Basket Analysis in re
 
 ### Southern Methodist University (Dallas, Texas)
 Master of Sciences in Business Analytics, MSBA, May, 2019
-Activities: Consulting & Corporate Strategy Club, Real Estate Club 
+* Activities: Consulting & Corporate Strategy Club, Real Estate Club 
 
 ### National Chiayi University (Chiayi, Taiwan)
 Bachelors of Arts in Foreign Languages, GPA:3.79, June, 2014
-Leadership: Student Legislative Council — President 
+* Leadership: Student Legislative Council — President 
 
 ### TECHNICAL SKILLS (*In Progress)  
 `Python` ; `R` ; `HTML5` ; `Tableau` ; `Alteryx`; `MySQL`; `Knime` ; `Shiny` ; `Machine Learning*`; `Predictive Modelling*` ; `Revenue Management`
@@ -48,7 +48,7 @@ Leadership: Student Legislative Council — President
 
 ## WORK EXPERIENCE
 ### FLYTECH Technology Co., Ltd. (Taipei, Taiwan)
-__Business Development Manager — Management Associate Program, July 2015 – December 2016__                                                   
+__Business Development Manager — Management Associate Program, July 2015 – December 2016__                                               
 
 
 * Worked in the product, sales and marketing (PSM) rotation program at world’s third largest point-of-sale manufacturer 
