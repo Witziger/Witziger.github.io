@@ -4,8 +4,7 @@
 
 Jeff Bezos, chief executive officer of Amazon, once stated, “In business, what is dangerous is not to evolve.”
 
-As a business professional in the technology industry, I was deeply affected by these words, sparking my determination to transform the business world as an data scientist. I believe that the Deep Learning Camp at Jeju Island will provide me with the knowledge, resources, and a competitive environment I need to achieve new heights.
-
+As a business professional in the technology industry, I was deeply affected by these words, sparking my determination to transform the business world as an data scientist. 
 
 
 ## RECENT ACTIVITY
