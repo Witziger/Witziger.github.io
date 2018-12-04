@@ -4,7 +4,7 @@
 
 Jeff Bezos, chief executive officer of Amazon, once stated, “In business, what is dangerous is not to evolve.”
 
-As a business professional in the technology industry, I was deeply affected by these words, sparking my determination to transform the business world as an data scientist. 
+As a business professional in the technology industry, I was deeply affected by these words, sparking my determination to transform the business world as a data scientist. 
 
 
 ## RECENT ACTIVITY
