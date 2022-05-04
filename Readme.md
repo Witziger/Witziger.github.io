@@ -20,7 +20,7 @@ Hi, I am Sandy Hsieh, a results-driven analytics leader with more than 5 years o
 
 ## TECHNICAL SKILLS (*In Progress)  
 
-`SQL` ; `Power BI` ; `Tableau` ; `R` ; `Python` ; `Excel (VBA)` ; `Google Analytics` ; `think-cell` ; `Alteryx` ; `AWS` ; `Oracle Eloqua` ; `HTML` ; `CSS*` ; `JavaScript*` ; `Nodejs*`
+`SQL` ; `Power BI` ; `Tableau` ; `R` ; `Python` ; `Excel (VBA)` ; `Google Analytics` ; `think-cell` ; `Alteryx` ; `AWS*` ; `Oracle Eloqua` ; `HTML` ; `CSS*` ; `JavaScript*` ; `Nodejs*`
 
 
 ## WORK EXPERIENCE
