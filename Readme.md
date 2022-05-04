@@ -26,7 +26,7 @@ Hi, I am Sandy Hsieh, a results-driven analytics leader with more than 5 years o
 ## WORK EXPERIENCE
 
 ### Republic Finance (Plano, TX)
-***Sr. Market Data Analyst, Apr 2022 – Present***
+***Sr. Operations Analyst, Apr 2022 – Present***
 
 
 * Developed PowerBI dashboard to provide analytical support for branch operations
