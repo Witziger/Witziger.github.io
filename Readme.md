@@ -8,7 +8,7 @@ Hi, I am Sandy Hsieh, a results-driven analytics leader with more than 5 years o
 ## EDUCATION
 
 ### Southern Methodist University (Dallas, Texas)
-***Master of Sciences in Business Analytics, Aug 2018 - May 2019* **
+** *Master of Sciences in Business Analytics, Aug 2018 - May 2019* **
 * Activities: Consulting & Corporate Strategy Club, Real Estate Club 
 
 ### Cornell University (Ithaca, New York)
