@@ -92,16 +92,13 @@ Power BI lectures and Excel Basics workshop for 100+ accounting graduate student
 * Built dashboards utilizing Tableau to manage multiple worksheets and correlations plots in one screen; presented the branding insights and recommended a new marketing strategy to the client. 
 
 
-## Academic Projects
+## Volunteering
 
-### Dallas Stars, National Hockey League (Sports Industry Data Visualization Project) 
-* Analyzed customers’ data to identify the distinct pattern and address business issues to support client’s business intelligence and analytics department. 
-* Built dashboards utilizing Tableau to manage multiple worksheets and correlations plots in one screen; presented the branding insights and recommended a new marketing strategy to the client. 
+### Alteryx for Goods
+***Volunteer, Sep 2019 - Present***
 
-
-### MOREFREE TRIP, Online Travel Agency Startup (Database Design Project)
-* Designed a database utilizing MySQL for financial, HR, and sales departments to do the data-driven transformation.
-* Built a shiny application to facilitate the startup's day-to-day business operations and enable the analytics solutions.
+### National Chiayi University Industry Seminar Series
+***Guest Speaker, Feb 2017 - Jun 2017***
 
 
 ## LANGUAGE
