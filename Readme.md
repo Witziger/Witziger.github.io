@@ -26,7 +26,7 @@ __Bachelors of Arts in Foreign Languages, GPA:3.79, June, 2014__
 ## WORK EXPERIENCE
 
 ### Republic Finance (Plano, TX)
-__Sr. Market Data Analyst, Apr 2022 – Present__
+*Sr. Market Data Analyst, Apr 2022 – Present*
 
 
 * Developed PowerBI dashboard to provide analytical support for branch operations
@@ -102,32 +102,6 @@ __Practicum Data Analyst, Aug 2018 – Oct 2018__
 ### MOREFREE TRIP, Online Travel Agency Startup (Database Design Project)
 * Designed a database utilizing MySQL for financial, HR, and sales departments to do the data-driven transformation.
 * Built a shiny application to facilitate the startup's day-to-day business operations and enable the analytics solutions.
-
-
-## ACTIVITIES & LEADERSHIP
-
-### NATIONAL CHIAYI UNIVERSITY INDUSTRY PROFESSIONAL LECTURE SERIES (Chiayi, Taiwan)
-__Guest Speaker, May 2017__
-* Delivered a public speech introducing how I started my career in the Technology field with a humanity relat-
-ed background through self-taught programs
-
-### Design for Taiwan (Taipei, Taiwan)
-__Project Lead, September 2016 - July 2017__ 
-
-* Participated in 3-day design thinking workshop led by fellow of IDEO consulting firm. 
-* Led a cross-functional team of 5 people to design a new way to expand echo chamber for college students in Taiwan. 
-
-### NATIONAL CHIAYI UNIVERSITY— STUDENT LEGISLATIVE COUNCIL (Chiayi, Taiwan)
-__Representative of Dept. Foreign Languages, 2012 – 2013__
-* Hosted monthly budget evaluation meetings for student affairs with over 30 members from different depart-
-ments and evaluated the legislative process of University regulations.
-
-### NATIONAL TAIWAN UNIVERSITY— ENGLISH DEBATE WORKSHOP (Taipei, Taiwan)
-__Public Relations Officer 2013__
-* Led a team of 5 personnel to coordinate public relations tasks; organized campus campaigns and conducted
-weekly progress evaluations; received over 85 registrations before the deadline.
-* Hosted a 6-day national workshop with over 76 participants, raising sponsorship from Taipei Fushing Private
-School, which saved the organization 2,000 USD.
 
 
 ## LANGUAGE
