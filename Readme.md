@@ -12,10 +12,10 @@ Hi, I am Sandy Hsieh, a results-driven analytics leader with more than 5 years o
 * Activities: Consulting & Corporate Strategy Club, Real Estate Club 
 
 ### Cornell University (Ithaca, New York)
-***Certificate in Hotel Revenue Management, Dec 2018 - Mar 2019* **
+***Certificate in Hotel Revenue Management, Dec 2018 - Mar 2019***
 
 ### National Chiayi University (Chiayi, Taiwan)
-***Bachelors of Arts in Foreign Languages, Sep 2010 - Jun 2014* **
+***Bachelors of Arts in Foreign Languages, Sep 2010 - Jun 2014***
 * Leadership: Student Legislative Council — President 
 
 ## TECHNICAL SKILLS (*In Progress)  
@@ -26,14 +26,14 @@ Hi, I am Sandy Hsieh, a results-driven analytics leader with more than 5 years o
 ## WORK EXPERIENCE
 
 ### Republic Finance (Plano, TX)
-***Sr. Market Data Analyst, Apr 2022 – Present* **
+***Sr. Market Data Analyst, Apr 2022 – Present***
 
 
 * Developed PowerBI dashboard to provide analytical support for branch operations
 * Conducted risk analysis utilizing SQL and Power BI to identify the factors of delinquency 
 
 ### Informa Markets (Irving, TX)
-***Sr. Market Data Analyst, May 2021 – Apr 2022* **                                               
+***Sr. Market Data Analyst, May 2021 – Apr 2022***                                               
 
 
 * Led data integration project to migrate 1.5 million audience data from 7 legacy systems to a centralized cloud-based customer data
@@ -44,7 +44,7 @@ success and increase precision of customer targeting and segmentation
 
 
 ### Murphy USA (El Dorado, AR)
-***Data Analyst II, Merchandising & Marketing Analytics, Sep 2019 – Apr 2021* **                                               
+***Data Analyst II, Merchandising & Marketing Analytics, Sep 2019 – Apr 2021***                                               
 
 **Murphy Drive Rewards Project**
 
@@ -69,7 +69,7 @@ weekly sales data report to top- and bottom- performing sites
 
 
 ### Southern Methodist University (Dallas, TX)
-***Graduate Teaching Assistant, Aug 2019 – Sep 2019* **                                            
+***Graduate Teaching Assistant, Aug 2019 – Sep 2019***                                            
 
 * Collaborated with former PwC partner and director to design course objectives for accounting data analytics class and delivered
 Power BI lectures and Excel Basics workshop for 100+ accounting graduate students.
@@ -77,7 +77,7 @@ Power BI lectures and Excel Basics workshop for 100+ accounting graduate student
 
 
 ### Brinker International (Coppell, TX)
-***Practicum Data Analyst, Jan 2019 – Apr 2019* **                                              
+***Practicum Data Analyst, Jan 2019 – Apr 2019***                                              
 
 
 * Utilized Agile software development life cycle to manage project; built models with R to determine drivers of repeat business and quantify the impacts on visit frequency at 940 Chili’s restaurants in the US
@@ -85,7 +85,7 @@ Power BI lectures and Excel Basics workshop for 100+ accounting graduate student
 
 
 ### Dallas Stars (Dallas, TX)
-***Practicum Data Analyst, Aug 2018 – Oct 2018* **                                              
+***Practicum Data Analyst, Aug 2018 – Oct 2018***                                              
 
 
 * Analyzed customers’ ticketing data to identify the distinct pattern and address business issues to support client’s business intelligence and analytics department. 
