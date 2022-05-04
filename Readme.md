@@ -1,6 +1,6 @@
 ![Imgur](https://i.imgur.com/s5bkmoTm.jpg?3)
 
-## Sandy Yu-Hsuan Hsieh 謝語瑄
+## Sandy Hsieh
 
 Hi, I am Sandy Hsieh, a results-driven analytics leader with more than 5 years of experience in business intelligence, data engineering, and operations analytics. My experience includes developing customer segmentation model and identifying shopper insights for Fortune 300 company, leading data migration projects for world’s largest exhibition group, and utilizing revenue management techniques in response to revenue issues for US National Hockey League team.
 
